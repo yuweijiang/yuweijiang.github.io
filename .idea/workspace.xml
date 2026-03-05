@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa0362fc-0c61-4caa-8edb-97634f63c9bf" name="更改" comment="" />
+    <list default="true" id="aa0362fc-0c61-4caa-8edb-97634f63c9bf" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript 调试.index.html.executor": "Run",
+    "JavaScript 调试.publications.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -52,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1763351994370</updated>
       <workItem from="1763352006926" duration="1519000" />
-      <workItem from="1763995896817" duration="320000" />
+      <workItem from="1763995896817" duration="916000" />
+      <workItem from="1772725284818" duration="622000" />
     </task>
     <servers />
   </component>
