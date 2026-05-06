@@ -23,7 +23,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JavaScript 调试.index.html.executor": "Run",
+    "JavaScript 调试.index.html.executor": "Debug",
     "JavaScript 调试.publications.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +57,7 @@
       <workItem from="1763995896817" duration="916000" />
       <workItem from="1772725284818" duration="1297000" />
       <workItem from="1775788962046" duration="2474000" />
-      <workItem from="1778052990042" duration="1063000" />
+      <workItem from="1778052990042" duration="1323000" />
     </task>
     <servers />
   </component>
